@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  -webkit-tap-highlight-color: transparent;
+}
+
+#root {
+  max-width: 480px;
+  margin: 0 auto;
+  min-height: 100dvh;
+  background: #f8f9fa;
+}
